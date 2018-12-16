@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import xbox
 
 # Format floating point number to string format -x.xxx
